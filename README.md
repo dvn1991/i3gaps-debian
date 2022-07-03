@@ -1,3 +1,4 @@
+#DREWGRIF'S I3 SCRIPT
 # i3gaps
 # Works great with Debian Stable
 I wanted to install i3 gaps on debian stable.
